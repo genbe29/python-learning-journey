@@ -10,5 +10,5 @@ Here, I document my progress from an absolute beginner to building my own indepe
 
 📅 Timeline & Goals:
 - August 2026: Started learning Python basics on Stepik (currently mastering loops: `for` and `while`). Registered on GitHub.
-- Autumn 2026 Goal**: Finish Python core basics and develop my first 2D games using the `Pygame` library.
+- Autumn 2026 Goal: Finish Python core basics and develop my first 2D games using the `Pygame` library.
 
