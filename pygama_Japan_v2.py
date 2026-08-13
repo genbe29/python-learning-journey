@@ -1,10 +1,10 @@
 import pygame
-from pygame import FULLSCREEN
+
 a = int(input())
 b = int(input())
 pygame.init()
 
-screen = pygame.display.set_mode((a, b))
+screen = pygame.display.set_mode((a, b - 50))
 pygame.display.set_caption('It is Japan')
 
 white = (255, 255, 255)
